@@ -1,0 +1,1 @@
+[21-May-2021 18:54:43 America/New_York] PHP Fatal error:  strict_types declaration must be the very first statement in the script in /home/whenqklv/coupondis.se/local/vendor/phpunit/php-timer/src/Timer.php on line 2

@@ -1,0 +1,4 @@
+[21-May-2021 18:54:59 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/whenqklv/coupondis.se/local/config/mail.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/whenqklv/coupondis.se/local/config/mail.php on line 17
