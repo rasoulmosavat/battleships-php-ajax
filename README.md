@@ -1,12 +1,13 @@
 
 Hi,
 
-This video shows how the designed game "BattleShips" works.
-This game is implemented with Laravel framework.
-In this game, the following languages and libraries are used.
-PHP and Ajax are used to communicate with the server, and HTML, CSS, JavaScript, jQuery and Bootstrap have been used to design the game.
+This video shows how the designed game "BattleShips" works.<br>
+This game is implemented with Laravel framework.<br>
+In this game, the following languages and libraries are used.<br>
+1- PHP and Ajax are used to communicate with the server. <br>
+2- HTML, CSS, JavaScript, jQuery and Bootstrap have been used to design the game.<br>
 
-To see how the game works, use the link below
+To see how the game works, use the link below.<br>
 https://youtu.be/_W0Ky5yCRBg
 
 
