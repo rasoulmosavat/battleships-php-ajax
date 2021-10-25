@@ -7,7 +7,7 @@ In this game, the following languages and libraries are used.
 PHP and Ajax are used to communicate with the server, and HTML, CSS, JavaScript, jQuery and Bootstrap have been used to design the game.
 
 To see how the game works, use the link below
-https://youtu.be/99Wy2ngdQNg
+https://youtu.be/_W0Ky5yCRBg
 
 
 ![battleships1](https://user-images.githubusercontent.com/74821847/138692221-213ffbf4-8e08-43a5-b053-947c06994f37.JPG)
